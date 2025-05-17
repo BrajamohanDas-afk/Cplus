@@ -1,2 +1,2 @@
-# C-
+# Cplus
 striver c++ DSA corse
