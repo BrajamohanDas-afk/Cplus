@@ -11,6 +11,7 @@ void insertion_sort(vector<int>& arr, int n) {
             arr[j] = temp;
 
             j--;
+            // cout<<"run"<<endl; this is to check hwo many times the arry is running
         }
     }
 }
